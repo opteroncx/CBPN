@@ -1,3 +1,3 @@
 # CBPN
---
-Code will be avaliable when paper is accepted.
+----
+Code will be available when the paper is accepted.
